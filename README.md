@@ -1,16 +1,15 @@
-## Hi there 👋
+## Boas vindas ao meu perfil 😑
 
-<!--
-**Isabellyhenker15/isabellyhenker15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Isabelly Henker
 
-Here are some ideas to get you started:
+_ Estou estudando na Alura
+_ Estou me desenvolvendo na linguagem JavaScript
+_ Ultilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Você entra em contato comigo 📫
+
+isabelly.henker@escola.pr.gov.br
+
+@isabelly.cravo.henker
+
+![](https://media1.tenor.com/m/5gW7ge4_T-4AAAAC/haikyuu-tanaka.gif)
